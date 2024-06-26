@@ -1,0 +1,6 @@
+# Devops team reviewers
+
+/terraform-aws-project/ @dev-ops-tech/devops-team
+
+# code owners file permissions
+/.github/CODEOWNERS @karthik196babu @shivrajpatil7m 

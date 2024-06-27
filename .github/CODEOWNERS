@@ -1,5 +1,8 @@
 # Devops team reviewers
-/Dev-Ops-Tech/ @Terraform-aws-project/devops-team
+#/Dev-Ops-Tech/ @Terraform-aws-project/devops-team
 
 # code owners file permissions
-/.github/CODEOWNERS @karthik196babu @shivrajpatil7m 
+#/.github/CODEOWNERS @karthik196babu @shivrajpatil7m 
+
+# Set global code owners for the repository
+* @Dev-Ops-Tech/devops-team
